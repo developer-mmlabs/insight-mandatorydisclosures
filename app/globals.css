@@ -10,6 +10,8 @@
   --line: #dce6ee;
   --surface: #f3f7fa;
   --white: #ffffff;
+  --font-body: "Lato";
+  --font-heading: "Montserrat";
 }
 
 * {
